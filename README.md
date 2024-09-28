@@ -43,12 +43,12 @@ A code implementation for the EMNLP 2023 paper "Task-Adaptive Tokenization: Enha
   
   this script will build a task-adaptive tokenizer and save the newly merged vocab file into the output
 
-# task-adaptive tokenization
+# Project Reproducing
 ## download data
 ./data/PsyQa/loading_script.py will automatically prepare dataset we need. You usually just need this script.
 
 
-## setup the environment
+## setting up the environment
 You may need two environments to run:
 open and follow the following command in ./install.sh
 
